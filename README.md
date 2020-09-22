@@ -1,4 +1,4 @@
-# "other" will contain items not specific to any Repository from main profile
+# Rep. mainly of miscellaneous resources :):):) related to coding, datascience or even I.T.
 
 ### Markdown Helps
 1. [Github](https://guides.github.com/features/mastering-markdown/)
