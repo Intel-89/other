@@ -1,4 +1,4 @@
-# Rep. mainly of miscellaneous resources :):):) related to coding, datascience or even I.T.
+# Rep. mainly of miscellaneous resources related to coding, datascience or even I.T.
 
 ### Markdown Helps
 1. [Github](https://guides.github.com/features/mastering-markdown/)
