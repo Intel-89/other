@@ -1,4 +1,4 @@
-# Repo mainly of miscellaneous resources related to coding, datascience or even I.T.
+# Repo mainly of miscellaneous resources not bucketed on other Repos
 
 ### Markdown Helps
 1. [Github](https://guides.github.com/features/mastering-markdown/)
