@@ -12,6 +12,7 @@
 1. [Linux FileSystems Hierarchy & Commands](https://medium.com/@saikumarkaleru56/linux-filesystems-hierarchy-commands-5ebd8c22f957)
 1. [Linux Directory Structure](https://medium.com/@kpatronas/linux-directory-structure-ab5148087b58)
 1. [Useful Linux Tricks](https://medium.com/@meshree4/useful-linux-tricks-9c01ffccdd75)
+1. [Linux Fundamentals — File Permissions](https://medium.com/@a.m.dybas/linux-fundamentals-file-permissions-ec58c58b21d2)
 
 
 
