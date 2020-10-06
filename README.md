@@ -13,6 +13,7 @@
 1. [Linux Directory Structure](https://medium.com/@kpatronas/linux-directory-structure-ab5148087b58)
 1. [Useful Linux Tricks](https://medium.com/@meshree4/useful-linux-tricks-9c01ffccdd75)
 1. [Linux Fundamentals — File Permissions](https://medium.com/@a.m.dybas/linux-fundamentals-file-permissions-ec58c58b21d2)
+1. [Speed Test through Command Line](https://medium.com/@dasShounak/test-your-internet-speed-through-the-command-line-2c486d9cca93)
 
 
 
